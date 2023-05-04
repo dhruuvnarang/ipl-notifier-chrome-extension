@@ -1,0 +1,17 @@
+{
+    "name": "IPL Score Notifier",
+    "version": "1.0.0",
+    "description": "IPL Score notifier",
+    "manifest_version": 3,
+    "icons": { 
+    "16": "tata-ipl-logo.png",
+    "48": "tata-ipl-logo.png",
+    "128": "tata-ipl-logo.png" 
+     },
+    "author": "Dhruv Narang",
+    "action": {
+        "default_icon": "tata-ipl-logo.png",
+        "default_popup": "index.html",
+        "default_title": "IPL Score Notifier"
+    }
+}
